@@ -1,3 +1,7 @@
+function couldYouNot() {
+  document.getElementById("none").innerHTML = "Could you NOT decompile my code please? It's cheating and not the intended solution";
+}
+
 // Script to write out a phone number, but only on a mobile device
 function isHidden(el) {
   var style = window.getComputedStyle(el);
