@@ -1,2 +1,0 @@
-# thinCrossroads
-Created with CodeSandbox
