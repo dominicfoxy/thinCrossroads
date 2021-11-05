@@ -11,6 +11,6 @@ function verify01() {
     document.getElementById('fourth').value === 'thyme'
   ) {
     document.getElementById('main').innerHTML =
-      '<h1>Well Done!</h1><a href="#">Did you know that phones see things that desktops can\'t?</a>';
+      '<h1>Well Done!</h1><a href="l9pzufphk4.html">Did you know that phones see things that desktops can\'t?</a>';
   }
 }
