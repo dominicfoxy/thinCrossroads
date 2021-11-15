@@ -46,4 +46,4 @@ function printer(texts, id){
 }
 // answer for knowledge #3
 var check03 = "WEREWOLF T&A";
-var link03 = "index.html";
+var link03 = "kibble.html";
